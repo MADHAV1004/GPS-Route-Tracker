@@ -52,7 +52,3 @@ python gps_route_tracker.py
 ## Example Output
 
 Once the script is executed, you will have an HTML file (`gps_route_map.html`) that contains the visualized route. Open this file in your browser to view the plotted GPS route.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
