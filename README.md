@@ -34,7 +34,7 @@ latitude,longitude
 12.9830,77.6300
 ```
 
-You can use your own dataset or download the sample dataset from [gps_data.csv](./gps_data.csv).
+You can use your own dataset or download the sample dataset from gps_data.csv.
 
 ## How to Run
 
